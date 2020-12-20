@@ -1,32 +1,42 @@
 [
   {
     "sequence": 1,
-    "question": "",
-    "answer": ""
+    "question": "What's my name?",
+    "answer": "Reino Muhl"
   },
   {
     "sequence": 2,
-    "question": "",
-    "answer": ""
+    "question": "Where are you from?",
+    "answer": "Pretoria, South Africa 🇿🇦"
   },
   {
     "sequence": 3,
-    "question": "",
-    "answer": ""
+    "question": "Where are you now?",
+    "answer": "New York City, New York 🗽"
   },
   {
     "sequence": 4,
-    "question": "",
-    "answer": ""
+    "question": "How many languages do you speak?",
+    "answer": "3. English, German and Afrikaans"
   },
   {
     "sequence": 5,
-    "question": "",
-    "answer": ""
+    "question": "How old am I?",
+    "answer": "Old enough to know someone who bought a pizza with a bitcoin. (32 years old)"
   },
   {
     "sequence": 6,
-    "question": "",
-    "answer": ""
+    "question": "What are your hobbies?",
+    "answer": "* I play tennis (tennis-ball)\n* Anything space, SpaceX, Virgin Galactic, Electron, etc.\n* I follow politics\n* E-Sports\n* Dabble in investing"
+  },
+  {
+    "sequence": 7,
+    "question": "Professional career track record",
+    "answer": "* 9 years as a Software Engineer\n* 1 year as an independent contractor\n* 2 years consulting at a startup\n* 6 years consulting on enterprise software with focus on integration"
+  },
+  {
+    "sequence": 8,
+    "question": "5 things about my personality",
+    "answer": "* Friendly and approachable\n* Curious and eager to learn\n* Reliable and supportive\n* Dedicated and goal driven\n* Helpful"
   }
 ]
