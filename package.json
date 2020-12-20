@@ -1,0 +1,11 @@
+{
+  "name": "who-am-i-rsm",
+  "version": "1.0.0",
+  "description": "Hi I'm Reino Muhl. This program will tell you a little about me.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
